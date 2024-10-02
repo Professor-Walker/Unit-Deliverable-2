@@ -1,10 +1,4 @@
 /********************************************
-*	AUTHORS:	<your names>
-* COLLABORATORS: <name of peer, tutor, instructor, anyone else who helped>
-*	LAST MODIFIED:	<date of last change>
-********************************************/
-
-/********************************************
 *	<TITLE OF PROGRAM>
 *********************************************
 *	PROGRAM DESCRIPTION:
@@ -15,6 +9,9 @@
 *********************************************
 *	STATIC METHODS:
 * <list of static methods and which teammate made each>
+*********************************************
+* IMPORTED PACKAGES NEEDED AND PURPOSE:
+* <ex: Scanner --> used for console input>
 *********************************************/
 
 
@@ -29,6 +26,8 @@ public class Main
     /***** INITIALIZATION SECTION *****/
 
     /***** INTRO SECTION *****/
+
+    /***** INPUT SECTION *****/
 
     /***** PROCESSING SECTION *****/
 
